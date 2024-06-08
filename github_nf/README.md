@@ -1,4 +1,4 @@
-# github.com/ns Go Tutorial
+# github.com/nf Go Tutorial
 
 [Writing, Building and Installing Go Code](https://m.youtube.com/watch?v=XCsL89YtqCs)
 
